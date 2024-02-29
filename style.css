@@ -1,0 +1,158 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 100%;
+    min-height: 100px;
+    
+}
+.header{
+    background-color: #000000;
+}
+.navbar{
+    width: 100%;
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+.navbar-links{
+    width: 1109px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-links a{
+    text-decoration: none;
+    color: white;
+}
+.Проезд{
+    color: white;
+}
+.ul-p{
+    display: flex;
+    gap: 50px;
+}
+.navbar-2{
+    width: 100%;
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #000000;
+}
+.navbar-links-2{
+    width: 1000px;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-links-2 a{
+    text-decoration: none;
+    color: white;
+}
+.navbar-links-2 a{
+    color: white;
+    padding: 15px 10px;
+    display: flex;
+  }
+.navbar-links-2 a:hover{
+    background-color: blue;
+    border-radius: 10px;
+    transform: rotate(360deg);
+    transition: 2s;
+  }
+.link{
+    display: flex;
+    color: white;
+    gap: 40px;
+}
+.STREEt{
+    width: 216px;
+    height: 53px;
+    background-color: #06600F;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.linklar{
+    width: 100%;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    background-color: #292929;
+    padding: 30px;
+}
+.linklar a{
+    text-decoration: none;
+    color: white;
+
+}
+.container-2{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    background: #393636;
+}
+.karzinka{
+    width: 315px;
+    height: 300px;
+    background-color: rgba(105, 207, 23, 0.90);
+}
+.card1{
+    background-color:#0C0C0C ;
+    color: white;
+}
+.card{
+    background: #0C0C0C;
+    width: 370px;
+    min-height: 50px;
+    color: white;
+    border: 1px solid white;
+}
+.ustun{
+    background: #393636;
+}
+.footer{
+    width: 100%;
+    min-height: 100px;
+    background: linear-gradient(180deg, #000 0%, rgba(105, 207, 23, 0.50) 100%);
+}
+.quti-ega{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.quti{
+    width: 1000px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.text-white{
+    text-decoration: none;
+}
+.quti-ega2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.quti2{
+    width: 1000px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
